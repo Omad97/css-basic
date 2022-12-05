@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+   }
+   .container {
+    background: #B8F7F7;
+    border: 3px solid #0BC2D6;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: flex-end;
+   }
+   .item {
+    color: white;
+   }
+   .one {
+    background: red;
+   }
+   .two {
+    background: blue;
+   }
+   .three {
+    background: green;
+   }
